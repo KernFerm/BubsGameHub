@@ -6,9 +6,10 @@ This is a simple Python application that provides a GUI for downloading and play
 
 The following games are available:
 
-- Ping Pong
-- Snake
-- Tetris
+- Repo Ping Pong
+- Repo Snake
+- Repo Tetris
+- Tetris.exe
 
 ## How to Use
 
