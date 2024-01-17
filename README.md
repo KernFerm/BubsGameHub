@@ -1,14 +1,16 @@
-# FNBUBBLES420 GITHUB GAME HUB Version 0.0.4  
+# FNBUBBLES420 GITHUB GAME HUB Version 0.0.5 
      check list
-     -tried to upload new image for hub , same image , wont change
+     -**fixed**tried to upload new image for hub , same image , wont change
      -more games coming soon 
      
 
+`WHEN I DO UPDATES TO THE HUB , YOU WILL HAVE TO DELETE THE OLD `GAME HUB VERSION DOWNLOAD THE NEW ONE`
+               
 This is a simple Python application that provides a GUI for downloading and playing games hosted on GitHub and other websites.
 
 ## Games
 
-The following games are available in menu (`links are provided so you know where the button you click goes`):
+The following games are available in menu (`links are provided so you know where the button you click goes`)
 
 - Repo Ping Pong - https://gith.com//PingPong # use fnbubbles420 github game hub
 - Repo Snake - https://gith.com//Snake # use fnbubbles420 github game hub
