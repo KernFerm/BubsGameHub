@@ -1,4 +1,4 @@
-# FNBUBBLES420 GITHUB GAME HUB Version 0.3
+# FNBUBBLES420 GITHUB GAME HUB Version 0.0.3
 
 This is a simple Python application that provides a GUI for downloading and playing games hosted on GitHub and other websites.
 
