@@ -8,7 +8,7 @@
                
 This is a simple Python application that provides a GUI for downloading and playing games hosted on GitHub and other websites.
 
-## Games
+## GAMES
 
 The following games are available in menu (`links are provided so you know where the button you click goes`)
 
@@ -19,7 +19,7 @@ The following games are available in menu (`links are provided so you know where
 
   # Use The Fnbubbles420 GitHub Game Hub To Use Links , I Took Out Some Words So You Cant Use These Link in The README only use in HUB!!! The Hub has the Correct Links!!!
 
-## How to Use
+## HOW TO USE
 
 1. Run `FNBUBBLES420_GITHUB_GAME_HUB.exe`.
 2. A window will open with a dropdown menu. Select the game you want to download or play.
@@ -31,13 +31,13 @@ The following games are available in menu (`links are provided so you know where
    use the `Arrow Keys Left Right Down & Up To Change Rotation Of The Blocks`
                    `SpaceBar To Bring The Blocks Down Faster`
 
-## Requirements
+## REQUIREMENTS
 
 - Python 3
 - tkinter
 - webbrowser
 - ctypes (Windows only)
 
-## Disclaimer
+## DISCLAIMER
 
 The `tetris.exe` file is not digitally signed, so you may get a warning from your browser or Windows Defender. The file is safe to download and run.
