@@ -10,9 +10,9 @@ GAMES = {
     'Repo PingPong': 'https://github.com/KernFerm/PingPong',
     'Repo Snake': 'https://github.com/KernFerm/Snake',
     'Repo Tetris': 'https://github.com/KernFerm/Tetris',
-    'Tetris.exe': 'https://filetransfer.io/data-package/ZAuxpLIj#link',
-    '2nd Tetris.exe if first link expires or is broken': 'https://filetransfer.io/data-package/63zUvOmV#link',
-    '3rd Tetris.exe if first and second link expires or is broken': 'https://filetransfer.io/data-package/fhJtvFzx#link',
+    'Tetris.exe': 'https://file.io/OlUKsNVumdfM',
+    '2nd Tetris.exe if first link expires or is broken': 'https://file.io/Hnpx8m5mdh8C',
+    '3rd Tetris.exe if first and second link expires or is broken': 'https://file.io/D4NSezhfq3Km',
 }
 
 def select_game(game):
