@@ -4,12 +4,14 @@ This is a simple Python application that provides a GUI for downloading and play
 
 ## Games
 
-The following games are available:
+The following games are available in menu (`links are provided so you know where the button you click goes`):
 
-- Repo Ping Pong
-- Repo Snake
-- Repo Tetris
-- Tetris.exe
+- Repo Ping Pong - https://gith.com//PingPong # use fnbubbles420 github game hub
+- Repo Snake - https://gith.com//Snake # use fnbubbles420 github game hub
+- Repo Tetris - https://gith.com//Tetris # use fnbubbles420 github game hub
+- Tetris.exe - https://filetraer.io//ZAuxpLIj#link # use fnbubbles420 github game hub
+
+  # Use The GitHub Game Hub To Use Links , I Took Out Some Words So You Cant Use These Link in The README only use in HUB!!!
 
 ## How to Use
 
