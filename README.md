@@ -11,7 +11,7 @@ The following games are available in menu (`links are provided so you know where
 - Repo Tetris - https://gith.com//Tetris # use fnbubbles420 github game hub
 - Tetris.exe - https://filetraer.io//ZAuxpLIj#link # use fnbubbles420 github game hub
 
-  # Use The GitHub Game Hub To Use Links , I Took Out Some Words So You Cant Use These Link in The README only use in HUB!!!
+  # Use The GitHub Game Hub To Use Links , I Took Out Some Words So You Cant Use These Link in The README only use in HUB!!! The Hub has the Correct Links!!!
 
 ## How to Use
 
