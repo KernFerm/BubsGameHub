@@ -4,7 +4,7 @@
      -more games coming soon 
      
 
-`WHEN I DO UPDATES TO THE HUB , YOU WILL HAVE TO DELETE THE OLD `GAME HUB VERSION DOWNLOAD THE NEW ONE`
+`WHEN I DO UPDATES TO THE HUB , YOU WILL HAVE TO DELETE THE OLD GAME HUB VERSION DOWNLOAD THE NEW ONE`
                
 This is a simple Python application that provides a GUI for downloading and playing games hosted on GitHub and other websites.
 
