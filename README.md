@@ -3,8 +3,8 @@
      -**fixed**tried to upload new image for hub , same image , wont change 
      -more games coming soon 
      -added treasure hunt (text base game)
-     -clock.exe (fun item)
-     -calender.exe (fun item)
+     -clock.exe (real clock)
+     -calender.exe (real cal)
      
 
 `WHEN I DO UPDATES TO THE HUB , YOU WILL HAVE TO DELETE THE OLD GAME HUB VERSION DOWNLOAD THE NEW ONE`
