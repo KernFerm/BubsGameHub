@@ -1,6 +1,6 @@
 # FNBUBBLES420 GITHUB GAME HUB Version 0.1.2
      check list
-     -**fixed**tried to upload new image for hub , same image , wont change
+     -**fixed**tried to upload new image for hub , same image , wont change 
      -more games coming soon 
      -added treasure hunt
      -clock.exe
