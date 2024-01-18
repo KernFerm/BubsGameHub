@@ -75,5 +75,5 @@ The following games are available in menu (`links are provided so you know where
 
 ## DISCLAIMER
 
-The `tetris.exe` & `clock.exe` `calender.exe` file is not digitally signed, so you may get a warning from your browser or Windows Defender. The file is safe to download and run.
-                                                         `soon my exe will be digitally signed`
+The `tetris.exe` & `clock.exe` `calender.exe` file is not digitally signed yet, so you may get a warning from your browser or Windows Defender. The file is safe to download and run.
+                                                         `I KernFerm Will Digitally Sign My .exe Soon`
