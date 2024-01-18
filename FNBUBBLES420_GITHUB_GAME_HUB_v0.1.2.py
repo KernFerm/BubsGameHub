@@ -2,33 +2,48 @@ import tkinter as tk
 from tkinter import messagebox
 import webbrowser
 import ctypes
-
+# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB
+I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE 
+I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE 
+I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE 
 # Hide the console window
-ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 0)
-
+ctypes.windll.user32.ShowWindow(ctypes.windll.kernel32.GetConsoleWindow(), 0)# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB # USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUBI DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE 
+I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE 
+I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE I DID THIS SO PEOPLE WOULDNT USE THE .PY ONLY THE .EXE 
+# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB
+# USE THE FNBUBBLES420 GITHUB GAME HUB
 GAMES = {
-    'Repo PingPong': 'https://github.com/KernFerm/PingPong',
-    'Repo Snake': 'https://github.com/KernFerm/Snake',
-    'Repo Tetris': 'https://github.com/KernFerm/Tetris',
-    'Repo Treasure Hunt': 'https://github.com/KernFerm/treasure-hunt',
-    'Tetris.exe': 'https://file.io/sAR5083W4pXs',
-    '2nd Tetris.exe if first link expires or is broken': 'https://file.io/wl0BkoIhmV1a',
-    '3rd Tetris.exe if first and second link expires or is broken': 'https://file.io/sYz2HmbyDL3N',
-    'Clock.exe': 'https://file.io/NUUIaTDecJQL',
-    '2nd Clock.exe if first link expires or is broken': 'https://file.io/waFKVf28jh8M',
-    '3rd Clock.exe if first and second link expires or is broken': 'https://file.io/Q9muT5llQKDa',
+    'Repo PingPong': 'https://github.com/KernFerm/PingPong',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    'Repo Snake': 'https://github.com/KernFerm/Snake',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    'Repo Tetris': 'https://github.com/KernFerm/Tetris',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    'Repo Treasure Hunt': 'https://github.com/KernFerm/treasure-hunt',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    'Tetris.exe': 'https://file.io/sAR5083W4pXs',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    '2nd Tetris.exe if first link expires or is broken': 'https://file.io/wl0BkoIhmV1a',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    '3rd Tetris.exe if first and second link expires or is broken': 'https://file.io/sYz2HmbyDL3N',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    'Clock.exe': 'https://file.io/NUUIaTDecJQL',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    '2nd Clock.exe if first link expires or is broken': 'https://file.io/waFKVf28jh8M',# USE THE FNBUBBLES420 GITHUB GAME HUB
+    '3rd Clock.exe if first and second link expires or is broken': 'https://file.io/Q9muT5llQKDa',# USE THE FNBUBBLES420 GITHUB GAME HUB
 }
 
-def select_game(game):
-    repo_url = GAMES[game]
-    webbrowser.open(repo_url)
+def select_game(game):# USE THE FNBUBBLES420 GITHUB GAME HUB
+    repo_url = GAMES[game]# USE THE FNBUBBLES420 GITHUB GAME HUB
+    webbrowser.open(repo_url)# USE THE FNBUBBLES420 GITHUB GAME HUB
     messagebox.showinfo("Info", "To Download The Repo From Fnbubbles420 Github Page, Click On The Green Box Upper Right Hand Corner, Click Download Zipfile. Make Sure To Read All The Intruction on The README.md File. From The Download Link When You Click Tetris.exe If You Get A Suspicious Warning From Your Browser -Click Continue Download.  -Tetris.exe & Clock.exe is NOT digitally signed, so you will get a warning from Windows Defender. Click on More Info and then Run Anyway.") 
      
-root = tk.Tk()
-root.geometry("400x500")
+root = tk.Tk()# USE THE FNBUBBLES420 GITHUB GAME HUB
+root.geometry("400x500")# USE THE FNBUBBLES420 GITHUB GAME HUB
 root.title("FNBUBBLES420 GITHUB GAME HUB")
+# USE THE FNBUBBLES420 GITHUB GAME HUB
+game_menu = tk.OptionMenu(root, tk.StringVar(), *GAMES.keys(), command=select_game)# USE THE FNBUBBLES420 GITHUB GAME HUB
+game_menu.pack()# USE THE FNBUBBLES420 GITHUB GAME HUB
 
-game_menu = tk.OptionMenu(root, tk.StringVar(), *GAMES.keys(), command=select_game)
-game_menu.pack()
-
-root.mainloop()
+root.mainloop()# USE THE FNBUBBLES420 GITHUB GAME HUB
