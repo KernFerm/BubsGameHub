@@ -33,7 +33,7 @@ The following games are available in menu (`links are provided so you know where
 2. A window will open with a dropdown menu. Select the game you want to download or play.
 3. If you select `Repo PingPong`, `Repo Snake`, or `Repo Tetris` or `Repo Treasure Hunt`, you will be taken to the `corresponding GitHub page`. Click on the `Green Code` button in the `upper right corner` of the page, then click `Download ZIP`. `Extract the zip file` to play the game.
 4. If you select `Tetris.exe` or `Clock.exe` or `Calender.exe` one of the backup links, the `Tetris.exe` or `Clock.exe` or `Calender.exe` file will be downloaded. You may get a warning from your browser or Windows Defender because the file is not `DIGITALLY SIGNED`. If this happens, click `Continue Download` or `More Info` and then `Run Anyway`.
-
+  ## Make Sure To READ & FOLLOW ALL INSTRUCTION ON THE REPO PAGE!!!!
 
 ## HOW TO PLAY TETRIS.EXE 
  (AFTER DOWNLOAD , Double Click The `fnbubbles420 github game hub application` 
