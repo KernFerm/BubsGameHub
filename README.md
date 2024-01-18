@@ -1,5 +1,7 @@
 ### 👋Welcome👋 To - FNBUBBLES420 GITHUB GAME HUB Version 0.2.1
-     check list
+     
+        CHECK LIST
+
     ✅ -**fixed**tried to upload new image for hub , same image , wont change 
     ✅ -more games coming soon 
     ✅ -added treasure hunt (text base game)
