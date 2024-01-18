@@ -6,6 +6,7 @@
     ✅ -clock.exe (real clock)
     ✅ -calender.exe (real cal)
     ✅ -fresh download links for clock / calender / tetris .exe
+       - .exe will get signed
      
 
 `WHEN I DO UPDATES TO THE HUB , YOU WILL HAVE TO DELETE THE OLD GAME HUB VERSION DOWNLOAD THE NEW ONE`
