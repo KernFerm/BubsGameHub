@@ -1,4 +1,4 @@
-### 👋Welcome👋 to - FNBUBBLES420 GITHUB GAME HUB Version 0.2.1
+### 👋Welcome👋 To - FNBUBBLES420 GITHUB GAME HUB Version 0.2.1
      check list
     ✅ -**fixed**tried to upload new image for hub , same image , wont change 
     ✅ -more games coming soon 
