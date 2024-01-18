@@ -1,10 +1,11 @@
-### FNBUBBLES420 GITHUB GAME HUB Version 0.2.0
+### FNBUBBLES420 GITHUB GAME HUB Version 0.2.1
      check list
      -**fixed**tried to upload new image for hub , same image , wont change 
      -more games coming soon 
      -added treasure hunt (text base game)
      -clock.exe (real clock)
      -calender.exe (real cal)
+     -fresh download links for clock / calender / tetris .exe
      
 
 `WHEN I DO UPDATES TO THE HUB , YOU WILL HAVE TO DELETE THE OLD GAME HUB VERSION DOWNLOAD THE NEW ONE`
