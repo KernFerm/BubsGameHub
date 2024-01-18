@@ -45,8 +45,8 @@ The following games are available in menu (`links are provided so you know where
 
 ## HOW TO USE CLOCK.EXE 
   (AFTER DOWNLOAD , Double Click The `fnbubbles420 github game hub application` 
-     Then Click The Clock.exe It Will Take You To The Download Link. 
-       after you download , Double Click Clock.exe and BAM!! clock shows with correct timezone for the user
+     Then Click The Clock.exe It Will Take You To The `Download Link`. 
+       after you download , `Double Click Clock.exe` and BAM!! `clock shows with correct timezone for the user`
 
   
 ## HOW TO USE CALENDER.EXE
