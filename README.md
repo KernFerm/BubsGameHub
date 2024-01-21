@@ -9,6 +9,7 @@
     ✅ -calender.exe (real cal)
     ✅ -fresh download links for clock / calender / tetris .exe
        - .exe will get signed
+        SIGNING MY EXE OVER THE WEEKEND  , HUB IS DOWN CURRENTLY 
      
 
 `WHEN I DO UPDATES TO THE HUB , YOU WILL HAVE TO DELETE THE OLD GAME HUB VERSION DOWNLOAD THE NEW ONE`
