@@ -1,4 +1,4 @@
-### 👋Welcome👋 To - BUBS GAME HUB Version 0.2.1  Getting Updated!!!!!
+### 👋Welcome👋 To - BUBS GAME HUB  | NEW version coming!!!  Getting Updated!!!!!
      
              CHECK LIST
 
