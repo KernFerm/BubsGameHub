@@ -24,17 +24,17 @@ This is a simple Python application that provides a GUI for downloading and play
 The following games are available in menu (`links are provided so you know where the button you click goes`)
 
 - 🏓 Repo Ping Pong - https://gith.com//PingPong # use bubs game hub
-
+-
 - 🐍 Repo Snake - https://gith.com//Snake # use bubs game hub
-
+-
 - 🟩 Repo Tetris - https://gith.com//Tetris # use bubs game hub
-
+-
 - ⚒⚒ Repo Treasure Hunt - https://gith.com//treasure-hunt # use bubs game hub
-
+-
 - 🟩 Tetris.exe - [https://file.io/] # use bubs game hub
-
+-
 - 🕗 Clock.exe - [https://file.io/] # use bubs game hub
-
+-
 - 📅 Calender.exe - [https://file.io/] # use bubs game hub
 
   # Use The Fnbubbles420 GitHub Game Hub To Use Links , I Took Out Some Words So You Cant Use These Link in The README only use in HUB!!! The Hub has the Correct Links!!!
