@@ -37,7 +37,7 @@ The following games are available in menu (`links are provided so you know where
 -
 - 📅 Calender.exe - [https://file.io/] # use bubs game hub
 
-  # Use The Fnbubbles420 GitHub Game Hub To Use Links , I Took Out Some Words So You Cant Use These Link in The README only use in HUB!!! The Hub has the Correct Links!!!
+  # Use The Bubs Game Hub To Use Links , I Took Out Some Words So You Cant Use These Link in The README only use in HUB!!! The Hub has the Correct Links!!!
 
 
 ## 🧰 HOW TO USE 🧰
