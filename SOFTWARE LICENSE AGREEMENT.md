@@ -2,7 +2,7 @@
 
 ## 1. License
 
-FNBUBBLES420 ("KernFerm") grants you ("The User") a non-exclusive, non-transferable, revocable license to use FNBUBBLES420 GITHUB GAME HUB ("The Software") in accordance with the terms contained in this agreement.
+FNBUBBLES420 ("KernFerm") grants you ("The User") a non-exclusive, non-transferable, revocable license to use BUBS GAME HUB ("The Software") in accordance with the terms contained in this agreement.
 
 ## 2. Proprietary Rights
 
